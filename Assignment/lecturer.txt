@@ -1,2 +1,0 @@
-chuk@mail,define1,Chuk,6011123456,IT
-lim@mail,abc1,Lim,601665421,BUS
