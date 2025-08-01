@@ -5,7 +5,6 @@ This file contains the login credentials and personal data for two user roles in
 2. The second line contains the user's personal or professional details.
 PS Both data sets can be found in their indivual .txt files; lecturer.txt, student.txt
 
-==================================================
 STUDENT DATA
 ==================================================
 
@@ -39,7 +38,6 @@ Sophia,60113456789,Bachelor in AI and Robotics,85
 andrew@mail,smartone  
 Andrew,60110987654,Degree in Cloud Engineering,78
 
-==================================================
 LECTURER DATA
 ==================================================
 
