@@ -3,7 +3,7 @@ README - Login Information
 This file contains the login credentials and personal data for two user roles in the system:
 1. The first line of each entry represents the login details: email (username) and password.
 2. The second line contains the user's personal or professional details.
-PS Both data sets can be found in their indivual .txt files; lecturer.txt, student.txt
+3. Both data sets can be found in their indivual .txt files; lecturer.txt, student.txt
 
 STUDENT DATA
 ==================================================
