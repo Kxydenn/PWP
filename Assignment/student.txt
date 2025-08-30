@@ -1,0 +1,13 @@
+kayden@mail.com,define2,Kayden Chok,60114567120,Degree in Cloud Engineering,96.5
+jayar@mail.com,spiderman,Jaya Reshman,6016969872,Diploma in BIT,100
+aniq@mail.com,886523,Aniq Shazmeer,6011125264,Degree in FinTech,55
+danial@mail.com,143520,Adamn Danial,6019252006,Diploma in ICT(SE),69
+aliya@mail.com,define3,Aliya,60129876543,Diploma in Cybersecurity,75
+tingli@mail.com,classmate,Chan Tingli,60118765432,Bachelor in Data Science,97
+farah@mail.com,define5,Farah,60111234567,Degree in Software Engineering,91
+daniel@mail.com,define6,Daniel,60117654321,Diploma in Networking,69
+sophia@mail,com,define7,Sophia,60113456789,Bachelor in AI and Robotics,85
+andrew@mail,smartone,Andrew,60110987654,Degree in Cloud Engineering,78
+james@mail.com,define3,Jamie Emil Luthur,6011234587,Diploma in Business Administration,90.0
+mytias@mail.com,define4,Mytias Armes,6011435782,Diploma in ICT,77.5
+jamieslol@gmail.com,hahahaimpro,Jamie Shaw,60166666666,Masters in Marketing,8.5

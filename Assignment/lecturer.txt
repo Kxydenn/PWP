@@ -1,0 +1,10 @@
+chuk@mail.com,define1,Lim Mun Chuk,6011123456,IT
+lim@mail.com,abc123,Lim,6016654210,IT
+nora@mail.com,pass123,Nora Binti Rosita,60123456789,ENGINEERING
+hazim@mail.com,welcome1,Hazim,60199887766,ACCOUNTING
+sarah@mail.com,login22,Sarah Martin,60188776655,DESIGN
+kevin@mail.com,qwerty11,Kevin,60177665544,MARKETING
+conrad@mail.com,secure9,Conrad Romuald Pereira,60166554433,BUSINESS
+raj@mail.com,testpass,Raj,60155443322,FINANCE
+bella@mail.com,openme22,Bella Ciao,60144332211,BUSINESS
+dan@mail.com,simplepass,Danielle Law,60133221100,IT
